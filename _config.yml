@@ -1,0 +1,21 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+exclude:             [Gemfile, README.md, LICENSE.md, scratch.md]
+unpublished:         true
+show_drafts:         false
+title:               'Teaching on Testbeds'
+tagline:             'Open educational resources using NSF-supported research infrastructure.'
+description:         'Experiential learning materials for computer networks, network security, and related topics.'
+url:                 ''
+baseurl:             ''
+
+# About/contact
+author:
+  name:              'Fraida Fund'
+  url:               'https://engineering.nyu.edu/faculty/fraida-fund'
+  email:             'ffund@nyu.edu'
+
+# Custom vars
+version:             1.1.0
