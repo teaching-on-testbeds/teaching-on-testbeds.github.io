@@ -12,7 +12,7 @@ title: Search
   }
 </script>
 
-Thanks to Google :-)
+Use Google to search this site:
 
 <form onsubmit="return SearchThisSite();">
   <div class="search-form-container">
