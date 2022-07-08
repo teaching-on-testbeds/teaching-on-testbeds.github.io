@@ -6,9 +6,9 @@ exclude:             [Gemfile, README.md, LICENSE.md, scratch.md]
 unpublished:         true
 show_drafts:         false
 title:               'Teaching on Testbeds'
-tagline:             'Open educational resources using NSF-supported research infrastructure.'
+tagline:             ''
 description:         'Experiential learning materials for computer networks, network security, and related topics.'
-url:                 ''
+url:                 'https://teaching-on-testbeds.github.io'
 baseurl:             ''
 
 # About/contact
