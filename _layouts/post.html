@@ -6,6 +6,7 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
+  <p>{{ page.author }}</p>
   <span class="post-date">{{ page.date | date_to_string }} | {{ tag_list }}</span>
   {{ content }}
 </div>
