@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello, CloudLab
-tags: [lab zero, cloudlab]
+tags: [lab-zero, cloudlab]
 ---
 
 # Hello, CloudLab

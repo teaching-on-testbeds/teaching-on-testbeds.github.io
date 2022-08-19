@@ -6,3 +6,9 @@
 
 - slug: liquid
   name: Liquid
+
+- slug: lab-zero
+  name: Lab zero
+
+- slug: cloudlab
+  name: CloudLab
