@@ -13,6 +13,6 @@ In this tutorial, you will learn how to use CloudLab to run experiments in compu
 > **Note**
 > This process has a “human in the loop” approval stage - students will need to wait for an instructor or research advisor to approve their request to join their project. They should be prepared to start the tutorial, wait for this approval, and then continue.
 
-![Hello CloudLab](https://teaching-on-testbeds.github.io/hello-cloudlab/)
+[Hello CloudLab](https://teaching-on-testbeds.github.io/hello-cloudlab/)
 
 
