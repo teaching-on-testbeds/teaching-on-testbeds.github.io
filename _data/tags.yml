@@ -1,11 +1,8 @@
-- slug: lab-zero
-  name: Lab zero
-
 - slug: cloudlab
   name: CloudLab
 
 - slug: geni
   name: GENI
 
-- slug: sockets
-  name: sockets
+- slug: chameleon
+  name: Chameleon
