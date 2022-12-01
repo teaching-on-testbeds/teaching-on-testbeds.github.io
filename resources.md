@@ -4,8 +4,8 @@ title: Resources
 ---
 
 | ----------- | ----------- |
-| ![FABRIC](_images/logo-fabric.png)        | ![Cloudlab](_images/logo-cloudlab.png)  |
-| ![Chameleon](_images/logo-chameleon.png)  | ![GENI](_images/logo-geni.png)          |
+| ![FABRIC]({{ site.baseurl }}/public/images/logo-fabric.png)        | ![Cloudlab]({{ site.baseurl }}/publicimages/logo-cloudlab.png)  |
+| ![Chameleon]({{ site.baseurl }}/publicimages/logo-chameleon.png)  | ![GENI]({{ site.baseurl }}/publicimages/logo-geni.png)          |
 
 
 Contact: Fraida Fund (ffund@nyu.edu)
