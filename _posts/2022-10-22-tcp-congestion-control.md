@@ -11,7 +11,7 @@ This experiment shows the basic behavior of TCP congestion control. You'll see t
 It should take about 1 hour to run this experiment.
 
 
-You can run this experiment on GENI or on CloudLab. 
+You can run this experiment on GENI or on CloudLab or on FABRIC. 
 
 [TCP congestion control](https://witestlab.poly.edu/blog/tcp-congestion-control-basics/)
 
