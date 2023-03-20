@@ -11,7 +11,7 @@ The exercises in this experiment will focus on the confidentiality of network se
 
 You can run this experiment on GENI, Cloudlab or on the new FABRIC testbed! Refer to the testbed-specific prerequisites listed below.
 
-[Secure_networked_applications](https://witestlab.poly.edu/blog/secure-applications/)
+[Secure networked applications](https://witestlab.poly.edu/blog/secure-applications/)
 
 
 
