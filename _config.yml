@@ -7,7 +7,7 @@ unpublished:         true
 show_drafts:         false
 title:               'Teaching on Testbeds'
 tagline:             ''
-description:         'Experiential learning materials for computer networks, network security, and related topics.'
+description:         'Experiential learning materials for computer networks, network security, cloud computing, and related topics.'
 url:                 'https://teaching-on-testbeds.github.io'
 baseurl:             ''
 
@@ -19,3 +19,8 @@ author:
 
 # Custom vars
 version:             1.1.0
+
+collections:
+  posts:
+    output: true
+    permalink: /blog/:title
