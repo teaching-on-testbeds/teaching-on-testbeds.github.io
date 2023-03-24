@@ -2,7 +2,7 @@
 <div>
   <ul class="related-posts">
     {% for post in site.posts reversed %}
-      {% include tag_collector.html tag_separator=',' %}
+    	<span>{% for post_tag in post.tags %}{{tag.name}}{% endfor %}</span>
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br />
     {% endfor %}
   </ul>
