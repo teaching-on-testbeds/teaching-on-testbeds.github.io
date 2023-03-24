@@ -2,7 +2,7 @@
 <div>
   <ul class="related-posts">
     {% for post in site.posts reversed %}
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span>{% for post_tag in post.tags %}{{post_tag.name}} {% endfor %}</span><br />
+    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span>{% if post.tags.size > 0 %}{% for post_tag in post.tags %}{{post_tag.name}} X {% endfor %}IF{ % endif %}</span><br />
     {% endfor %}
   </ul>
 </div>
