@@ -9,7 +9,7 @@ layout: default
 <div class="page">
   <h1 class="page-title">{{ post_tagged_message }}</h1>
     {% if site.tags[page.tag] %}
-      {% for post in site.tags[page.tag] reversed %}
+      {% for post in site.tags[page.tag] %}
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br />
       {% endfor %}
     {% else %}
