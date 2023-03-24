@@ -2,8 +2,7 @@
 <div>
   <ul class="related-posts">
     {% for post in site.posts reversed %}
-    	<span>{% for post_tag in post.tags %}{{tag.name}}{% endfor %}</span>
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br />
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span>{% for post_tag in post.tags %}{{post_tag.name}} {% endfor %}</span><br />
     {% endfor %}
   </ul>
 </div>
