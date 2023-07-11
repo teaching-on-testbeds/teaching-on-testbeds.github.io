@@ -9,3 +9,12 @@
 
 - slug: fabric
   name: FABRIC
+
+- slug: networking
+  name: Networking
+
+- slug: hello-world
+  name: Hello World
+
+- slug: security
+  name: Security
