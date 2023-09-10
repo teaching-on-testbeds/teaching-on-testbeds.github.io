@@ -2,7 +2,7 @@
 layout: post
 title: TCP/IP protocol layers
 author: Fraida Fund
-tags: [geni, cloudlab]
+tags: [geni, cloudlab, fabric, chameleon, networking]
 ---
 
 In this experimental demonstration of the TCP/IP protocol architecture, we will examine network addresses and connections at
@@ -14,6 +14,6 @@ In this experimental demonstration of the TCP/IP protocol architecture, we will 
 
 It should take about 60 minutes to run this experiment.
 
-You can run this experiment on GENI or on CloudLab.
+You can run this experiment on CloudLab, Chameleon, or FABRIC.
 
 [TCP/IP protocol layers](https://witestlab.poly.edu/blog/tcp-ip-protocol-stack/)
