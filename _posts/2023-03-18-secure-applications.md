@@ -2,7 +2,7 @@
 layout: post
 title: Secure networked applications
 author: Fraida Fund
-tags: [geni, cloudlab, fabric, chameleon]
+tags: [networking, security, geni, cloudlab, fabric, chameleon]
 ---
 
 
