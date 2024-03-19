@@ -2,7 +2,7 @@
 layout: post
 title: Static routing 
 author: Fraida Fund
-tags: [layer-3, geni, cloudlab]
+tags: [networking, geni, cloudlab, fabric]
 ---
 
 In these exercises, you will observe how routing principles apply when packets are forwarded by a router from one network segment to the next.
