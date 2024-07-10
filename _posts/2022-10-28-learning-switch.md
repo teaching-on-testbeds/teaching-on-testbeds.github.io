@@ -2,7 +2,7 @@
 layout: post
 title: Ethernet switch
 author: Fraida Fund
-tags: [geni, cloudlab]
+tags: [networking, cloudlab, fabric]
 ---
 
 In this experimental demonstration of the basic operation of a layer 2 switch/bridge, we will see:
@@ -12,6 +12,6 @@ In this experimental demonstration of the basic operation of a layer 2 switch/br
 * how a bridge or switch reduces collisions by separating each port into a separate collision domain.
 * It should take about 60-120 minutes to run this experiment.
 
-You can run this experiment on GENI or on CloudLab.
+You can run this experiment on CloudLab or on FABRIC.
 
 [Operation of a basic Ethernet switch or bridge](https://witestlab.poly.edu/blog/basic-ethernet-switch-operation/)
