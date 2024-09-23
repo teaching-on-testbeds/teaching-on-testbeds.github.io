@@ -18,3 +18,15 @@
 
 - slug: security
   name: Security
+
+- slug: wireless
+  name: Wireless
+
+- slug: aerpaw
+  name: AERPAW
+
+- slug: cosmos
+  name: COSMOS
+
+- slug: powder
+  name: POWDER
