@@ -2,7 +2,7 @@
 layout: post
 title: Home gateway services
 author: Fraida Fund
-tags: [geni, cloudlab]
+tags: [networking, cloudlab]
 ---
 
 
@@ -15,7 +15,7 @@ Most Internet-connected homes use a home network gateway to connect a local area
 
 It should take about 120-180 minutes to run this experiment.
 
-You can run this experiment on GENI or on CloudLab. 
+You can run this experiment on CloudLab. 
 
 [Basic home gateway services: DHCP, DNS, NAT](https://witestlab.poly.edu/blog/basic-home-gateway-services-dhcp-dns-nat/)
 
