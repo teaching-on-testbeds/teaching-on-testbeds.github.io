@@ -2,7 +2,7 @@
 layout: post
 title: Wireshark and tcpdump
 author: Fraida Fund
-tags: [geni, cloudlab, fabric, chameleon, networking]
+tags: [cloudlab, fabric, chameleon, networking, security]
 ---
 
 In this experiment you will practice using tcpdump and Wireshark, two software applications for packet capture and packet analysis.
