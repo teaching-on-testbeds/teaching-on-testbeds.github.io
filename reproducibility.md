@@ -7,6 +7,8 @@ This page is a collection of reproducible research materials designed for educat
 
 Contact: Fraida Fund (ffund@nyu.edu)
 
+This material is based upon work supported by the National Science Foundation under Grant No. 2226408.
+
 ### Machine Learning
 
 * [Deep Neural Nets: 33 years ago and 33 years from now](https://github.com/teaching-on-testbeds/deep-nets-reproducing/) (Fraida Fund). In this sequence of experiments, we will reproduce a result from machine learning from 1989 - a paper that is possibly the earliest real-world application of a neural network trained end-to-end with backpropagation. (In earlier neural networks, some weights were actually hand-tuned!) We'll go a few steps further, though - after reproducing the results of the original paper, we'll get to use some modern 'tricks' to try and improve the performance of the model without changing its underlying structure (i.e. no change in inference time!)
